@@ -1,0 +1,9 @@
+{
+	"name": "Ian's ServU Helper",
+	"description" : "To use, type a ServU IR or RQ number into the Omnibox.",
+	"version": "1.0",
+	"omnibox": { "keyword" : "SU" },
+	"icons": { "16": "16-full-color.png" },
+	"background": { "scripts": ["ServU.js"] },
+	"manifest_version": 2
+}
