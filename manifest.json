@@ -1,6 +1,6 @@
 {
 	"name": "Ian's ServU Helper",
-	"description" : "To use, type a ServU IR or RQ number into the Omnibox. Can also be used too search offerings.",
+	"description" : "To use, type a ServU IR or RQ number into the Omnibox. Can also be used to search offerings.",
 	"version": "1.0",
 	"omnibox": { "keyword" : "SU" },
 	"icons": { "16": "16-full-color.png" },
